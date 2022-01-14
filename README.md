@@ -15,7 +15,7 @@ It is common to observe anomalies in microscopy images, here termed as image art
 
 
 ## Ground truth annotations and data provided: 
-Manual annotations of artefacts (lint, fluorescent blobs, illumination tiles) and corresponding fluorescence images of various markers in colorectal tissue
+Manual annotations of artefacts (lint, fluorescent blobs, illumination tiles) and corresponding fluorescence images of various registered markers in colorectal tissue
 
 ## Compute requirements:
 GPU: ie 1080GTX, 3070 RTX, etc 
