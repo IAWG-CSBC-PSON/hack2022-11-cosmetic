@@ -18,10 +18,10 @@ It is common to observe anomalies in microscopy images, here termed as image art
 Manual annotations of artefacts (lint, fluorescent blobs, illumination tiles) and corresponding fluorescence images of various registered markers in colorectal tissue
 
 ## Compute requirements:
-GPU: ie 1080GTX, 3070 RTX, etc 
-RAM: 64GB
+* GPU: ie 1080GTX, 3070 RTX, etc 
+* RAM: 64GB
 
 ## Recommended software:
-Fiji or Napari
-If programming in Python, install scikit-image, opencv, Tensorflow, PyTorch
-If programming in MATLAB, install image processing toolbox
+* Fiji or Napari
+* If programming in Python, install scikit-image, opencv, Tensorflow, PyTorch
+* If programming in MATLAB, install image processing toolbox
