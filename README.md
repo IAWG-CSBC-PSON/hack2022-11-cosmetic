@@ -1,5 +1,5 @@
-# hack2022-12-cosmetic
-# Challenge 12: Automated Artefact Removal in Multiplexed Fluorescence Images for Cosmetic Purposes
+# hack2022-11-cosmetic
+# Challenge 11: Automated Artefact Removal in Multiplexed Fluorescence Images for Cosmetic Purposes
 
 ### *Create a model that visually suppresses debris in multiplexed fluorescence images for improved representation*
 
